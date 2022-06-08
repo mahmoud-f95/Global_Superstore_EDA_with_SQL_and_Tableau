@@ -1,4 +1,4 @@
-# Global Superstore-EDA-with-SQL-and-Tableau
+# Global Superstore EDA with SQL and Tableau
 
 
 ### Data
